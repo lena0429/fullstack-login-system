@@ -1,0 +1,2 @@
+{"message":"Invalid request body","errors":[{"expected":"object","code":"invalid_type","path":[],"message":"Invalid input: expected object, received undefined"}]}--_curl_--"email":"test@example.com"
+--_curl_--"password":"password1"
